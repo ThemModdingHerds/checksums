@@ -25,7 +25,5 @@
         {"name": "ui-win.gfs","hash": "ee8a29fe4a7c190a18e71824ac6e0dfb3158910c925803d7ec9a412d60dc7d49","canModify": true}
     ],
     "game": {"name": "Them's Fightin' Herds","hash": "03e20eece23f39fb1012061a5a7ff92f4b63da23eb8eb641cf6ee379cbce373d","canModify": false},
-    "others": [
-        {"name": "GameNews.ini","path": "Scripts/GameNews.ini","hash": "27dc33bf752eb613df707c4c86fd3cc74bb39795fbcbd2d1b4c28cdbc55e9c56","canModify": true}
-    ]
+    "gamenews": {"name": "GameNews.ini","path": "Scripts/GameNews.ini","hash": "27dc33bf752eb613df707c4c86fd3cc74bb39795fbcbd2d1b4c28cdbc55e9c56","canModify": true}
 }
